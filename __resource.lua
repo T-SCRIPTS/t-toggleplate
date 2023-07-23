@@ -18,5 +18,5 @@ export "startUI"
 dependencies {
   'es_extended',
   'ox_lib',
-  't_irtikilpi'
+  't-toggleplate'
 }
