@@ -1,0 +1,22 @@
+-- radialmenu "events" --
+
+RegisterNetEvent("irroitakilpi")
+AddEventHandler("irroitakilpi", function()
+   ExecuteCommand("irroitakilpi")
+end)
+
+
+RegisterNetEvent("asennakilpi")
+AddEventHandler("asennakilpi", function()
+   ExecuteCommand("asennakilpi")
+end)
+
+-- radialmenu "events" --
+
+-- komennot -- 
+
+/irroitakilpi -- irroittaa kilven
+
+/asennakilpi -- asentaa kilven takas
+
+-- komennot --
